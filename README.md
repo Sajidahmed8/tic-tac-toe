@@ -3,7 +3,7 @@ Welcome to the repository for Tic-Tac-Toe project! This is a simple implementati
 
 ## Demo
 
-You can play the game by visiting the [demo website](https://Sajidahmed8.github.io/tic-tac-toe-/).
+You can play the game by visiting the [demo website](https://Sajidahmed8.github.io/tic-tac-toe/).
 
 ## Features
 
